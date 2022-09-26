@@ -21,5 +21,5 @@ Navigation:
 
 ### Screenshot
 
-![screenshot](screenshot.jpeg | width=250)
+![screenshot](screenshot.jpeg)
 
