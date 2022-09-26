@@ -37,6 +37,7 @@ class IngredientsViewController: UIViewController {
         collectionView.accessibilityTraits.insert(.adjustable)
         collectionView.accessibilityLabel = "Ingredients Section"
         collectionView.showsHorizontalScrollIndicator = false
+        collectionView.backgroundColor = nil
 
         flowLayout.itemSize = .init(width: 70, height: 80)
         flowLayout.scrollDirection = .horizontal

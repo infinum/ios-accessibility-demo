@@ -14,6 +14,7 @@
 		428C9A9A28DA045E005C3886 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 428C9A9928DA045E005C3886 /* Assets.xcassets */; };
 		428C9AA528DA0B60005C3886 /* AccessibleCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428C9AA428DA0B60005C3886 /* AccessibleCollectionView.swift */; };
 		428C9AA728DA0B6F005C3886 /* IngredientCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428C9AA628DA0B6F005C3886 /* IngredientCollectionViewCell.swift */; };
+		4298694228E1CD9E00DA3BE1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4298694128E1CD9E00DA3BE1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		428C9A9E28DA045E005C3886 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		428C9AA428DA0B60005C3886 /* AccessibleCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibleCollectionView.swift; sourceTree = "<group>"; };
 		428C9AA628DA0B6F005C3886 /* IngredientCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientCollectionViewCell.swift; sourceTree = "<group>"; };
+		4298694128E1CD9E00DA3BE1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		428C9A8428DA045D005C3886 = {
 			isa = PBXGroup;
 			children = (
+				4298694128E1CD9E00DA3BE1 /* README.md */,
 				428C9A8F28DA045D005C3886 /* VoiceOverDemo */,
 				428C9A8E28DA045D005C3886 /* Products */,
 			);
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4298694228E1CD9E00DA3BE1 /* README.md in Resources */,
 				428C9A9A28DA045E005C3886 /* Assets.xcassets in Resources */,
 				428C9A9828DA045D005C3886 /* Main.storyboard in Resources */,
 			);

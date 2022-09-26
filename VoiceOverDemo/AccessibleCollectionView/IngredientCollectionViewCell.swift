@@ -27,7 +27,7 @@ class IngredientCollectionViewCell: UICollectionViewCell, SelectableCell {
         label.textAlignment = .center
         label.font = .systemFont(ofSize: 48)
         contentView.addSubview(label)
-        backgroundColor = .init(white: 0.9, alpha: 1.0)
+        backgroundColor = .black.withAlphaComponent(0.05)
         layer.cornerRadius = 16
         layer.masksToBounds = true
     }
